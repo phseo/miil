@@ -1,6 +1,6 @@
 
 <div class="well">
-<h4>Latest News</h4>
+<h4 style="margin-top: 0px;">Latest News</h4>
 
 {% for article in site.data.news limit:8 %}
 <div class="col-sm-3">
@@ -8,6 +8,6 @@
 </div>
 {% endfor %}
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+<a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a>
 
     </div>
