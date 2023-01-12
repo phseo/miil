@@ -3,7 +3,7 @@ title: "Allan Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /joining_us
 ---
 
 # Open positions
