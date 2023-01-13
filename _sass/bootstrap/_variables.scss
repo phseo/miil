@@ -363,6 +363,7 @@ $navbar-margin-bottom:             $line-height-computed !default;
 $navbar-border-radius:             $border-radius-base !default;
 $navbar-padding-horizontal:        floor(($grid-gutter-width / 2)) !default;
 $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2) !default;
+$navbar-padding-vertical-brand:    14px !default;
 $navbar-padding-vertical-top:      35px !default;
 $navbar-padding-vertical-bottom:   3px !default;
 $navbar-collapse-max-height:       340px !default;
