@@ -32,8 +32,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <span class="position">{{ homepage }}</span>
     {% endif %}
     {{ member.name }}
-  </span>
-  <span class="position">{{ member.position }}</span>
+  </span><br/>
+  <span class="position">{{ member.position }}</span><br/>
   <span class="email">{{ member.email }}</span> 
 </div>
 
