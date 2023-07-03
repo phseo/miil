@@ -3,7 +3,7 @@ title: "MIIL - Team"
 layout: gridlay
 excerpt: "MIIL: Team members"
 sitemap: false
-permalink: /members/
+permalink: /members/ 
 ---
 
 <!---
