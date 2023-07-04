@@ -28,10 +28,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <span class="member_name">
-    {% if member.homepage != "" %}
-    <span class="position">{{ homepage }}</span>
+    {% if member.homepage != null %}
+    <a href="{{ homepage }}">
     {% endif %}
     {{ member.name }}
+    {% if member.homepage != null %}
+    </a>
+    {% endif %}
   </span><br/>
   <span class="position">{{ member.position }}</span><br/>
   <span class="email">{{ member.email }}</span> 
