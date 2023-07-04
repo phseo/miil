@@ -26,8 +26,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <span class="member_name"><a href="{{ member.homepage }}">{{ member.name }}</a></span><br/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-top: 0px; " />
+  <span class="member_name"><a href="{{ member.homepage }}">**{{ member.name }}**</a></span><br/>
   <span class="position">{{ member.position }}</span><br/>
   <span class="email">{{ member.email }}</span> 
 </div>
