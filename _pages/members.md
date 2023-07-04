@@ -29,11 +29,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <span class="member_name">
     {% if member.homepage != null %}
-    <a href="{{ homepage }}">
-    {% endif %}
+    <a href="{{ member.homepage }}">{{ member.name }}</a>
+    {% else %}
     {{ member.name }}
-    {% if member.homepage != null %}
-    </a>
     {% endif %}
   </span><br/>
   <span class="position">{{ member.position }}</span><br/>
