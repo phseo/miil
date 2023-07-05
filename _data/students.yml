@@ -8,12 +8,12 @@
 # Make sure photo images are squre.
 
 - name: Roy Seo
-  photo: jacky.jpg
+  photo: phseo.jpg
   email: roy.seo
   homepage: https://phseo.github.io/
   interests: Deep learning
 
 - name: One Seo
-  photo: jacky.jpg
+  photo: phseo.jpg
   email: one.seo
   interests: multimodal learning
