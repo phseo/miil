@@ -107,9 +107,9 @@ pubtit {
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;
-  }
-  
-  [class^="icon-"], [class*=" icon-"] {
+}
+
+[class^="icon-"], [class*=" icon-"] {
 	/* use !important to prevent issues with browser extensions that change fonts */
 	font-family: 'icomoon' !important;
 	speak: never;
@@ -122,8 +122,11 @@ pubtit {
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-  }
-  
-  .icon-link:before {
+}
+
+.icon-link:before {
+	font-size: 80%;
+    margin-left: 0.3em;
+	color: #aaa;
 	content: "\e9cb";
-  }
+}
