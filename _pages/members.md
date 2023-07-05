@@ -85,10 +85,45 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
+### Interns
+{% assign number_printed = 0 %}
+{% for member in site.data.interns %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-top: 10px; " />
+  {% if member.homepage != null %}
+  <span class="member_name"><a href="{{ member.homepage }}" target="_blank">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
+  {% else %}
+  <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
+  {% endif %}
+  <span class="email" style="color: #888;">{{ member.email }}</span> <br/>
+  <span class="interests" style="font-style: italic;">{{ member.interests }}</span>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
 ### Alumni
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.alumni %}
 
 {% assign even_odd = number_printed | modulo: 6 %}
 

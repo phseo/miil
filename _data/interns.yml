@@ -6,13 +6,13 @@
 
 # Make sure photo images are squre.
 
-- name: Roy Seo
+- name: Intern Seo
   photo: phseo.jpg
   email: roy.seo
   homepage: https://phseo.github.io/
-  interests: Deep learning
+  interests: a learning
 
-- name: One Seo
+- name: One Intern
   photo: phseo.jpg
   email: one.seo
-  interests: multimodal learning
+  interests: b learning
