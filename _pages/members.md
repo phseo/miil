@@ -67,8 +67,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% else %}
   <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
   {% endif %}
-  <span class="email" style="color: #888;">{{ member.email }}</span> 
-  <span class="interests" style="font-style: italic;">{{ member.interests }}</span><br/>
+  <span class="email" style="color: #888;">{{ member.email }}</span> <br/>
+  <span class="interests" style="font-style: italic;">{{ member.interests }}</span>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
