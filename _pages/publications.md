@@ -7,9 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
-
-## Group highlights
+### Publications
 
 {% for publi in site.data.publist %}
 
