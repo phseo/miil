@@ -97,8 +97,33 @@ pubtit {
 }
 
 
-.icomoon-link:before {
-    font-size: 80%;
-    margin-left: 0.3em;
-    content: "\e015";
-}
+@font-face {
+	font-family: 'icomoon';
+	src:  url('fonts/icomoon.eot?z5905g');
+	src:  url('fonts/icomoon.eot?z5905g#iefix') format('embedded-opentype'),
+	  url('fonts/icomoon.ttf?z5905g') format('truetype'),
+	  url('fonts/icomoon.woff?z5905g') format('woff'),
+	  url('fonts/icomoon.svg?z5905g#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+  
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-link:before {
+	content: "\e9cb";
+  }
