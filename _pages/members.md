@@ -29,9 +29,11 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-top: 0px; " />
   {% if member.homepage != null %}
   <span class="member_name"><a href="{{ member.homepage }}">**{{ member.name }}**</a></span><br/>
+  {% else %}
+  <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
   {% endif %}
-  <span class="position">{{ member.position }}</span><br/>
-  <span class="email">{{ member.email }}</span> 
+  <span class="position" style="font-style: italic;">{{ member.position }}</span><br/>
+  <span class="email" style="color: #888;">{{ member.email }}</span> 
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
