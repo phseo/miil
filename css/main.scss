@@ -95,3 +95,10 @@ pubtit {
 .email::after {
 	content: "@korea.ac.kr";
 }
+
+
+.icomoon-link:before {
+    font-size: 80%;
+    margin-left: 0.3em;
+    content: "\e015";
+}
