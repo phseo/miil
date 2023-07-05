@@ -1,9 +1,10 @@
 - name: Paul Hongsuck Seo
   photo: phseo.jpg
   position: Assistant Professor
-  email: xxxx
+  email: phseo
   homepage: https://phseo.github.io/ 
-- name: Paul Hongsuck Seo
-  photo: phseo.jpg
-  position: Assistant Professor
-  email: xxxx
+  
+# - name: Paul Hongsuck Seo
+#   photo: phseo.jpg
+#   position: Assistant Professor
+#   email: xxxx

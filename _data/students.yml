@@ -1,23 +1,19 @@
 #- name:
 #  photo: rock.jpg
-#  info:
+#  homepage:
+#  position: 
 #  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+#  interests:
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+# Make sure photo images are squre.
 
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Roy Seo
+  photo: jacky.jpg
+  email: roy.seo
+  homepage: https://phseo.github.io/
+  interests: Deep learning
+
+- name: One Seo
+  photo: jacky.jpg
+  email: one.seo
+  interests: multimodal learning
