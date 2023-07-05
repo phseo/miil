@@ -149,8 +149,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% assign even_odd = number_printed | modulo: 6 %}
+{% if even_odd != 0 %}
 </div>
 {% endif %}
 
