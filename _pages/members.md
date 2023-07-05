@@ -132,12 +132,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
+  {% if member.homepage != null %}
+  <span class="member_name"><a href="{{ member.homepage }}" target="_blank">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
+  {% else %}
+  <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
+  {% endif %}
+  <span class="degree_year" style="font-style: italic;">{{ member.degree }}, {{ member.year }}</span><br/>
+  <span class="career" style="color: #888;">{{ member.career }}</span> 
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
