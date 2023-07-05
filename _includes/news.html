@@ -12,10 +12,8 @@
 {% endif %}
 
 <div class="col-sm-3">
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
+<p>{{ article.headline | markdownify}}<br>{{ article.date }}</p>
 </div>
-
-
 
 {% assign number_printed = number_printed | plus: 1 %}
 
