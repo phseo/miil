@@ -19,7 +19,7 @@ permalink: /allnews.html
 {% endif %}
 {% assign year_last = article.year %}
 <div class="row">
-<div class="col-sm-1 clearfix"><h4>{{ article.year }}</h4>
+<div class="col-sm-1 clearfix"><h4 style="margin-top: 0px;">{{ article.year }}</h4>
 </div>
 <div class="col-sm-11 clearfix">
 {% assign div_opened = 1 %}
