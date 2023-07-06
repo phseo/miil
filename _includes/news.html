@@ -12,7 +12,8 @@
 {% endif %}
 
 <div class="col-sm-3">
-<p>{{ article.headline | markdownify}}<br>{{ article.date }}</p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.img }}" width="100%"/>
+<p><strong>{{ article.category }}</strong><br />{{ article.description | markdownify}}</p>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
