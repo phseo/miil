@@ -25,6 +25,7 @@ permalink: /allnews.html
 {% assign div_opened = 1 %}
 {% endif %}
 
+<div class="row">
 <div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.img }}" width="100%"/>
 </div>
@@ -38,6 +39,7 @@ permalink: /allnews.html
 <span>{{ article.description | markdownify }}</span>
 {% endif %}
 </p>
+</div>
 </div>
 {% endfor %}
 
