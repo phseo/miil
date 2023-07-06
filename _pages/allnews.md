@@ -30,15 +30,13 @@ permalink: /allnews.html
 </div>
 
 <div class="col-sm-9">
-<!-- style="padding-top: 5px; padding-bottom: 5px; padding-right: 10px; padding-left: 10px; margin-bottom: 3px; box-shadow: none;"> -->
 <p style="margin-bottom: 0px;">
-<span style="color: black;">{{ article.category }}</span><br /><span>
+<span style="color: black;">{{ article.category }}</span><br />
 {% if article.long_description != null %}
-{{ article.long_description | markdownify }}
+<span>{{ article.long_description | markdownify }}</span>
 {% else %}
-{{ article.description | markdownify }}
+<span>{{ article.description | markdownify }}</span>
 {% endif %}
-</span>
 </p>
 </div>
 {% endfor %}
