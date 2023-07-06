@@ -25,19 +25,20 @@ permalink: /allnews.html
 {% assign div_opened = 1 %}
 {% endif %}
 
-<div class="col-xs-2">
+<div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.img }}" width="100%"/>
 </div>
 
-<div class="col-sm-10">
+<div class="col-sm-9">
  <!-- style="padding-top: 5px; padding-bottom: 5px; padding-right: 10px; padding-left: 10px; margin-bottom: 3px; box-shadow: none;"> -->
 <p style="margin-bottom: 0px;">
-<span style="color: black;">{{ article.category }}</span><br />
+<span style="color: black;">{{ article.category }}</span><br /><span>
 {% if article.long_description != null %}
-<span>{{ article.long_description | markdownify}}</span>
+{{ article.long_description | markdownify }}
 {% else %}
-<span>{{ article.description | markdownify}}</span>
+{{ article.description | markdownify }}
 {% endif %}
+</span>
 </p>
 </div>
 {% endfor %}
