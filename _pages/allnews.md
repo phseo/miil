@@ -30,7 +30,7 @@ permalink: /allnews.html
 </div>
 
 <div class="col-sm-9">
- <!-- style="padding-top: 5px; padding-bottom: 5px; padding-right: 10px; padding-left: 10px; margin-bottom: 3px; box-shadow: none;"> -->
+<!-- style="padding-top: 5px; padding-bottom: 5px; padding-right: 10px; padding-left: 10px; margin-bottom: 3px; box-shadow: none;"> -->
 <p style="margin-bottom: 0px;">
 <span style="color: black;">{{ article.category }}</span><br /><span>
 {% if article.long_description != null %}
