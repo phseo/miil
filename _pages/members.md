@@ -125,13 +125,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni %}
 
-{% assign even_odd = number_printed | modulo: 6 %}
+{% assign even_odd = number_printed | modulo: 4 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-2 clearfix">
+<div class="col-sm-3 clearfix">
   {% if member.homepage != null %}
   <span class="member_name"><a href="{{ member.homepage }}" target="_blank">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
   {% else %}
@@ -143,13 +143,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 5 %}
+{% if even_odd == 3 %}
 </div>
 {% endif %}
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 6 %}
+{% assign even_odd = number_printed | modulo: 4 %}
 {% if even_odd != 0 %}
 </div>
 {% endif %}
