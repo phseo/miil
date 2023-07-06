@@ -36,7 +36,7 @@ permalink: /allnews.html
 {% else %}
 <span>{{ article.description }}</span>
 {% endif %}
-<span style="color: #999; font-size: 80%;">{{ article.month }}, {{ article.year }}</span>
+<span style="color: #999; font-size: 90%;">{{ article.month }}, {{ article.year }}</span>
 </p>
 </div>
 </div>
