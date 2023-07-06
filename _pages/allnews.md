@@ -26,7 +26,7 @@ permalink: /allnews.html
 {% endif %}
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.img }}" width="100%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.img }}" width="100%" style="margin-bottom: 0px; margin-top: 0px;"/>
 </div>
 <div class="col-sm-9">
 <p style="margin-bottom: 0px;">
