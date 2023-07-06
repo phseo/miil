@@ -1,4 +1,5 @@
 - title: "Determination of the charge transfer"
+  year: 2023
   authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
   venue: CVPR 2023
   link:
@@ -11,6 +12,7 @@
 - title: "Determination of the charge"
   authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
   venue: AAAI 2022
+  year: 2022
   link:
   oral: 1
   spotlight: 
@@ -20,7 +22,19 @@
   
 - title: "Majorana modes in individual vortices in FeTe0.55Se0.045"
   authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
-  venue: NeurIPS 2023
+  venue: NeurIPS 2022
+  year: 2022
+  link:
+  oral: 
+  spotlight: 
+  highlight1: Winner
+  highlight2: 
+  highlight3: 
+  
+- title: "Majorana modes in individual vortices in FeTe0.55Se0.045"
+  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+  venue: NeurIPS 2020
+  year: 2020
   link:
   oral: 
   spotlight: 
