@@ -12,7 +12,7 @@
 {% endif %}
 
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.img }}" width="100%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.img }}" style="width: 100%; aspect-ratio: 2/1; object-fit: contain;"/>
 <span style="color: black;">{{ article.category }}</span><br /><span>{{ article.description | markdownify}}</span>
 </div>
 

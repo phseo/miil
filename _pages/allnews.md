@@ -26,10 +26,9 @@ permalink: /allnews.html
 {% endif %}
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.img }}" width="100%" style="margin-bottom: 0px; margin-top: 0px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.img }}" style="width: 100%; aspect-ratio: 2/1; object-fit: contain; margin-bottom: 0px; margin-top: 0px;"/>
 </div>
 <div class="col-sm-9">
-<p style="margin-bottom: 0px;">
 <span style="color: black;">{{ article.category }}</span><br />
 {% if article.long_description != null %}
 <span>{{ article.long_description }}</span>
@@ -37,7 +36,6 @@ permalink: /allnews.html
 <span>{{ article.description }}</span>
 {% endif %}
 <span style="color: #999; font-size: 80%;">{{ article.month }}, {{ article.year }}</span>
-</p>
 </div>
 </div>
 {% endfor %}
