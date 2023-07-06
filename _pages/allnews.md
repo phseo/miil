@@ -30,8 +30,7 @@ permalink: /allnews.html
 </div>
 <div class="col-sm-9">
 <p style="margin-bottom: 0px;">
-<span style="color: black;">{{ article.category }}</span><br />
-<span>{{ article.description | markdownify }}</span>
+<span style="color: black;">{{ article.category }}</span><br />aaaaa
 </p>
 </div>
 </div>
