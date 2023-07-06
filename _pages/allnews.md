@@ -30,7 +30,12 @@ permalink: /allnews.html
 </div>
 <div class="col-sm-9">
 <p style="margin-bottom: 0px;">
-<span style="color: black;">{{ article.category }}</span><br />{{ article.description }}
+<span style="color: black;">{{ article.category }}</span><br />
+{% if article.long_description != null %}
+<span>{{ article.long_description }}</span>
+{% else %}
+<span>{{ article.description }}</span>
+{% endif %}
 </p>
 </div>
 </div>
