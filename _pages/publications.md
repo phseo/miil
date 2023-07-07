@@ -1,7 +1,7 @@
 ---
 title: "MIIL - Publications"
 layout: gridlay
-excerpt: "MIIL -- Publications."
+excerpt: "MIIL - Publications."
 sitemap: false
 permalink: /publications/
 ---

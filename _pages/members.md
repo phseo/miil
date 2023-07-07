@@ -1,7 +1,7 @@
 ---
 title: "MIIL - Team"
 layout: gridlay
-excerpt: "MIIL: Team members"
+excerpt: "MIIL - Team members"
 sitemap: false
 permalink: /members/ 
 ---
