@@ -29,6 +29,9 @@ permalink: /publications/
 <div class="well" style="padding-top: 5px; padding-bottom: 5px; padding-right: 10px; padding-left: 10px; margin-bottom: 3px; box-shadow: none;">
 <p style="margin-bottom: 0px;">
 <a href="{{ publi.link }}" target="_blank">**{{ publi.title }}**</a> 
+{% if publi.oral == 1 %}
+<div class="oral">oral</div>
+{% endif %}
 <br />
 {{ publi.authors }}<br />
 In <i>{{ publi.venue }}</i>
