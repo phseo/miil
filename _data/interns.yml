@@ -6,13 +6,13 @@
 
 # Make sure photo images are squre.
 
-- name: Intern Seo
-  photo: phseo.jpg
-  email: roy.seo
-  homepage: https://phseo.github.io/
-  interests: a learning
+# - name: Intern Seo
+#   photo: phseo.jpg
+#   email: roy.seo
+#   homepage: https://phseo.github.io/
+#   interests: a learning
 
-- name: One Intern
-  photo: phseo.jpg
-  email: one.seo
-  interests: b learning
+# - name: One Intern
+#   photo: phseo.jpg
+#   email: one.seo
+#   interests: b learning

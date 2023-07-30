@@ -50,10 +50,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-### Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
+{% if number_printed == 0 %}
+### Students
+{% endif %}
+
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
@@ -85,10 +88,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-### Interns
 {% assign number_printed = 0 %}
 {% for member in site.data.interns %}
 
+{% if number_printed == 0 %}
+### Interns
+{% endif %}
+
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
@@ -120,10 +126,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-### Alumni
-
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni %}
+
+{% if number_printed == 0 %}
+### Alumni
+{% endif %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
@@ -132,11 +140,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-3 clearfix">
+  <p style="margin-bottom: 3px;">
   {% if member.homepage != null %}
   <span class="member_name"><a href="{{ member.homepage }}" target="_blank">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
   {% else %}
   <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
   {% endif %}
+  </p>
   <span class="degree_year" style="font-style: italic;">{{ member.degree }}, {{ member.year }}</span><br/>
   <span class="career" style="color: #888;">{{ member.career }}</span> 
 </div>
