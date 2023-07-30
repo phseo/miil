@@ -46,9 +46,6 @@
 # Visual Reference Resolution using Attention Memory for Visual Dialog
 # Paul Hongsuck Seo, Andreas Lehrmann, Bohyung Han, Leonid Sigal
 # In NIPS 2017
-# MarioQA: Answering Questions by Watching Gameplay Videos
-# *Jonghwan Mun, *Paul Hongsuck Seo, Ilchae Jung, Bohyung Han (* equal contribution)
-# In ICCV 2017
 
 
 
@@ -56,7 +53,7 @@
 
 - title: "MarioQA: Answering Questions by Watching Gameplay Videos"
   year: 2017
-  authors: "*Jonghwan Mun, *Paul Hongsuck Seo, Ilchae Jung, Bohyung Han (* equal contribution)"
+  authors: \*Jonghwan Mun, \*Paul Hongsuck Seo, Ilchae Jung, Bohyung Han (\* equal contribution)
   venue: ICCV 2017
   link: https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf
   oral: 
