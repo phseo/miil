@@ -31,38 +31,22 @@
   description: "We won 1st place in Ego4D AV transcription challenge."
   long_description: "We won first place in audiovisual transcription challenge at the Second International Ego4D Workshop held in ECCV 2022."
 
-- img: amp.png
-  year: 2021
-  month: May
+- img: eccv2022.png
+  year: 2022
+  month: July
   category: Publication
-  description: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
+  description: "A paper accepted to ECCV 2022."
 
-- img: amp.png
-  year: 2020
-  month: May
+- img: interspeech2022.png
+  year: 2022
+  month: June
   category: Publication
-  description: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
+  description: "A paper accepted to Interspeech 2022."
 
-- img: amp.png
-  year: 2019
-  month: May
-  category: Publication
-  description: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
 
-- img: amp.png
-  year: 2018
-  month: May
+- img: cvpr2022.png
+  year: 2022
+  month: Mar
   category: Publication
-  description: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
+  description: "A paper accepted to CVPR 2022."
 
-- img: amp.png
-  year: 2018
-  month: May
-  category: Publication
-  description: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
-
-- img: amp.png
-  year: 2018
-  month: May
-  category: Publication
-  description: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
