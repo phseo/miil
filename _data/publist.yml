@@ -54,12 +54,23 @@
 
 
 
-- title: "Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction oral"
+- title: "MarioQA: Answering Questions by Watching Gameplay Videos"
+  year: 2017
+  authors: "*Jonghwan Mun, *Paul Hongsuck Seo, Ilchae Jung, Bohyung Han (* equal contribution)"
+  venue: ICCV 2017
+  link: https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction"
   year: 2016
   authors: Hyeonwoo Noh, Paul Hongsuck Seo, Bohyung Han
   venue: CVPR 2016
   link: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Noh_Image_Question_Answering_CVPR_2016_paper.pdf
-  oral: 
+  oral: 1
   spotlight: 
   highlight1: 
   highlight2: 
