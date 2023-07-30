@@ -6,11 +6,11 @@
 
 # Make sure photo images are squre.
 
-- name: Roy Seo
-  photo: phseo.jpg
-  email: roy.seo
-  homepage: https://phseo.github.io/
-  interests: Deep learning
+# - name: Roy Seo
+#   photo: phseo.jpg
+#   email: roy.seo
+#   homepage: https://phseo.github.io/
+#   interests: Deep learning
 
 # - name: One Seo
 #   photo: phseo.jpg

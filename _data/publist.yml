@@ -1,44 +1,136 @@
-- title: "Determination of the charge transfer"
-  year: 2023
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
-  venue: CVPR 2023
-  link:
-  oral: 1
-  spotlight: 1
-  highlight1: Winner
-  highlight2: Test
-  highlight3: Challenge Winner
-  
-- title: "Determination of the charge"
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
-  venue: AAAI 2022
-  year: 2022
-  link:
-  oral: 1
+# AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR
+# Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
+# In CVPR 2023
+# IFSeg: Image-free Semantic Segmentation via Vision-Language Model
+# Sukmin Yun, Seong Hyeon Park, Paul Hongsuck Seo, Jinwoo Shin
+# In CVPR 2023
+# Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning
+# Antoine Yang, Arsha Nagrani, Paul Hongsuck Seo, Antoine Miech, Jordi Pont-Tuset, Ivan Laptev, Josef Sivic, Cordelia Schmid
+# In CVPR 2023
+# Zero-shot Referring Image Segmentation with Global-Local Context Features
+# Seonghoon Yu, Paul Hongsuck Seo, Jeany Son
+# In CVPR 2023
+# Learning Audio-Video Modalities from Image Captions
+# Arsha Nagrani, Paul Hongsuck Seo, Bryan Seybold, Anja Hauth, Santiago Manen, Chen Sun, Cordelia Schmid
+# In ECCV 2022
+# AVATAR: Unconstrained Audiovisual Speech Recognition oral
+# *Valentin Gabeur, *Paul Hongsuck Seo, *Arsha Nagrani, Chen Sun, Karteek Alahari, Cordelia Schmid (* equal contribution)
+# In Interspeech 2022
+# End-to-end Generative Pretraining for Multimodal Video Captioning
+# Paul Hongsuck Seo, Arsha Nagrani, Anurag Arnab, Cordelia Schmid
+# In CVPR 2022
+# Look Before you Speak: Visually Contextualized Utterances
+# Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
+# In CVPR 2021
+# Reinforcing an Image Caption Generator by Human Feedback oral
+# Paul Hongsuck Seo, Piyush Sharma, Tomer Levinboim, Bohyung Han, Radu Soricut
+# In AAAI 2020
+# Combinatorial Inference against Label Noise
+# Paul Hongsuck Seo, Geeho Kim, Bohyung Han
+# In NeurIPS 2019
+# Regularizing Neural Networks via Stochastic Branch Layers oral
+# *Wonpyo Park, *Paul Hongsuck Seo, Bohyung Han, Minsu Cho (* equal contribution)
+# In ACML 2019
+# Learning for Single-Shot Confidence Calibration in Deep Neural Networks through Stochastic Inferences
+# *Seonguk Seo, *Paul Hongsuck Seo, Bohyung Han (* equal contribution)
+# In CVPR 2019
+# CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps
+# Paul Hongsuck Seo, Tobias Weyand, Jack Sim, Bohyung Han
+# In ECCV 2018
+# Attentive Semantic Alignment with Offset-Aware Correlation Kernels
+# Paul Hongsuck Seo, Jongmin Lee, Deunsol Jung, Bohyung Han, Minsu Cho
+# In ECCV 2018
+# Progressive Attention Networks for Visual Attribute Prediction
+# Paul Hongsuck Seo, Zhe Lin, Scott Cohen, Xiaohui Shen, Bohyung Han
+# In BMVC 2018
+# Visual Reference Resolution using Attention Memory for Visual Dialog
+# Paul Hongsuck Seo, Andreas Lehrmann, Bohyung Han, Leonid Sigal
+# In NIPS 2017
+# MarioQA: Answering Questions by Watching Gameplay Videos
+# *Jonghwan Mun, *Paul Hongsuck Seo, Ilchae Jung, Bohyung Han (* equal contribution)
+# In ICCV 2017
+
+
+
+
+
+- title: "Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction oral"
+  year: 2016
+  authors: Hyeonwoo Noh, Paul Hongsuck Seo, Bohyung Han
+  venue: CVPR 2016
+  link: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Noh_Image_Question_Answering_CVPR_2016_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "A Corpus for a Multimodal Dialog System for Presentation Controls"
+  year: 2016
+  authors: Paul Hongsuck Seo, Gary Geunbae Lee
+  venue: Proceedings of the International Workshop Series on Multimodal Corpora (MMC 2016)
+  link: http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-MCC-2016-proceedings.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Conversational Knowledge Teaching Agent that Uses a Knowledge Base"
+  year: 2015
+  authors: Kyusong Lee, Paul Hongsuck Seo, Junhwi Choi, Sangjun Koo, Gary Geunbae Lee
+  venue: SIGDIAL 2015
+  link: https://aclanthology.org/W15-4618.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Grammatical Error Correction based on Learner Comprehension Model in Oral Conversation"
+  year: 2014
+  authors: Kyusong Lee, Seonghan Ryu, Paul Hongsuck Seo, Seokhwan Kim, Gary Geunbae Lee
+  venue: Proceedings of the IEEE Workshop on Spoken Language Technology (SLT 2014)
+  link: https://ieeexplore.ieee.org/document/7078588
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Generating Grammar Questions using Corpus Data in L2 Learning"
+  year: 2012
+  authors: Kyusong Lee, Soo-ok Kweon, Hongsuck Seo, Gary Geunbae Lee
+  venue: Proceedings of the IEEE Workshop on Spoken Language Technology (SLT 2012)
+  link: https://ieeexplore.ieee.org/document/6424265
+  oral: 
   spotlight: 
   highlight1: 
   highlight2: 
   highlight3: 
   
-- title: "Majorana modes in individual vortices in FeTe0.55Se0.045"
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
-  venue: NeurIPS 2022
-  year: 2022
-  link:
+- title: "A Meta-Learning Approach to Grammatical Error Correction"
+  authors: Hongsuck Seo, Jonghoon Lee, Seokhwan Kim, Kyusong Lee, Sechun Kang, Gary Geunbae Lee
+  venue: ACL 2012
+  year: 2012
+  link: https://aclanthology.org/P12-2064/
   oral: 
   spotlight: 
-  highlight1: Winner
+  highlight1: 
   highlight2: 
   highlight3: 
   
-- title: "Majorana modes in individual vortices in FeTe0.55Se0.045"
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
-  venue: NeurIPS 2020
-  year: 2020
-  link:
+- title: "Grammatical Error Annotation for Korean Learners of Spoken English"
+  authors: Hongsuck Seo, Kyusong Lee, Gary Geunbae Lee, Soo-ok Kweon
+  venue: LREC 2012
+  year: 2012
+  link: https://aclanthology.org/L12-1035/
   oral: 
   spotlight: 
-  highlight1: Winner
+  highlight1: 
   highlight2: 
   highlight3: 
+
+
+
 
