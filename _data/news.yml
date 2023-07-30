@@ -1,34 +1,35 @@
 
 - img: cvpr2023.png
   year: 2023
-  month: Feb
+  month: February
   category: Publication
   description: "4 papers accepted to CVPR 2023."
   long_description: 
 
 - img: neurips.svg
   year: 2023
-  month: Mar
+  month: March
   category: Professional Service
   description: "Paul will serve as an Area Chair for NeurIPS 2023."
 
-- img: amp.png
+- img: icml2023.png
   year: 2022
-  month: May
-  category: Publication
-  description: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
+  month: December
+  category: Professional Service
+  description: "Paul will serve as an Area Chair for ICML 2023."
 
-- img: amp.png
+- img: cvpr2023.png
   year: 2022
-  month: July
-  category: Publication
-  description: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
+  month: October
+  category: Professional Service
+  description: "Paul will serve as an Area Chair for CVPR 2023."
 
-- img: amp.png
+- img: ego4d.png
   year: 2022
-  month: May
+  month: October
   category: Publication
-  description: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
+  description: "We won 1st place in Ego4D AV transcription challenge."
+  long_description: "We won first place in audiovisual transcription challenge at the Second International Ego4D Workshop held in ECCV 2022."
 
 - img: amp.png
   year: 2021
