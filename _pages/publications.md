@@ -30,7 +30,7 @@ permalink: /publications/
 <p style="margin-bottom: 0px;">
 <a href="{{ publi.link }}" target="_blank">**{{ publi.title }}**</a> 
 {% if publi.oral == 1 %}
-<div class="oral">oral</div>
+<span class="oral">oral</span>
 {% endif %}
 <br />
 {{ publi.authors }}<br />
