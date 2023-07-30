@@ -1,55 +1,178 @@
-# AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR
-# Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
-# In CVPR 2023
-# IFSeg: Image-free Semantic Segmentation via Vision-Language Model
-# Sukmin Yun, Seong Hyeon Park, Paul Hongsuck Seo, Jinwoo Shin
-# In CVPR 2023
-# Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning
-# Antoine Yang, Arsha Nagrani, Paul Hongsuck Seo, Antoine Miech, Jordi Pont-Tuset, Ivan Laptev, Josef Sivic, Cordelia Schmid
-# In CVPR 2023
-# Zero-shot Referring Image Segmentation with Global-Local Context Features
-# Seonghoon Yu, Paul Hongsuck Seo, Jeany Son
-# In CVPR 2023
-# Learning Audio-Video Modalities from Image Captions
-# Arsha Nagrani, Paul Hongsuck Seo, Bryan Seybold, Anja Hauth, Santiago Manen, Chen Sun, Cordelia Schmid
-# In ECCV 2022
-# AVATAR: Unconstrained Audiovisual Speech Recognition oral
-# *Valentin Gabeur, *Paul Hongsuck Seo, *Arsha Nagrani, Chen Sun, Karteek Alahari, Cordelia Schmid (* equal contribution)
-# In Interspeech 2022
-# End-to-end Generative Pretraining for Multimodal Video Captioning
-# Paul Hongsuck Seo, Arsha Nagrani, Anurag Arnab, Cordelia Schmid
-# In CVPR 2022
-# Look Before you Speak: Visually Contextualized Utterances
-# Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
-# In CVPR 2021
-# Reinforcing an Image Caption Generator by Human Feedback oral
-# Paul Hongsuck Seo, Piyush Sharma, Tomer Levinboim, Bohyung Han, Radu Soricut
-# In AAAI 2020
-# Combinatorial Inference against Label Noise
-# Paul Hongsuck Seo, Geeho Kim, Bohyung Han
-# In NeurIPS 2019
-# Regularizing Neural Networks via Stochastic Branch Layers oral
-# *Wonpyo Park, *Paul Hongsuck Seo, Bohyung Han, Minsu Cho (* equal contribution)
-# In ACML 2019
-# Learning for Single-Shot Confidence Calibration in Deep Neural Networks through Stochastic Inferences
-# *Seonguk Seo, *Paul Hongsuck Seo, Bohyung Han (* equal contribution)
-# In CVPR 2019
-# CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps
-# Paul Hongsuck Seo, Tobias Weyand, Jack Sim, Bohyung Han
-# In ECCV 2018
-# Attentive Semantic Alignment with Offset-Aware Correlation Kernels
-# Paul Hongsuck Seo, Jongmin Lee, Deunsol Jung, Bohyung Han, Minsu Cho
-# In ECCV 2018
-# Progressive Attention Networks for Visual Attribute Prediction
-# Paul Hongsuck Seo, Zhe Lin, Scott Cohen, Xiaohui Shen, Bohyung Han
-# In BMVC 2018
-# Visual Reference Resolution using Attention Memory for Visual Dialog
-# Paul Hongsuck Seo, Andreas Lehrmann, Bohyung Han, Leonid Sigal
-# In NIPS 2017
+- title: "AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR"
+  year: 2023
+  authors: Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
+  venue: CVPR 2023
+  link: https://openaccess.thecvf.com/content/CVPR2023/papers/Seo_AVFormer_Injecting_Vision_Into_Frozen_Speech_Models_for_Zero-Shot_AV-ASR_CVPR_2023_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
 
+- title: "IFSeg: Image-free Semantic Segmentation via Vision-Language Model"
+  year: 2023
+  authors: Sukmin Yun, Seong Hyeon Park, Paul Hongsuck Seo, Jinwoo Shin
+  venue: CVPR 2023
+  link: https://openaccess.thecvf.com/content/CVPR2023/papers/Yun_IFSeg_Image-Free_Semantic_Segmentation_via_Vision-Language_Model_CVPR_2023_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
 
+- title: "Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning"
+  year: 2023
+  authors: Antoine Yang, Arsha Nagrani, Paul Hongsuck Seo, Antoine Miech, Jordi Pont-Tuset, Ivan Laptev, Josef Sivic, Cordelia Schmid
+  venue: CVPR 2023
+  link: https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Vid2Seq_Large-Scale_Pretraining_of_a_Visual_Language_Model_for_Dense_CVPR_2023_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
 
+- title: "Zero-shot Referring Image Segmentation with Global-Local Context Features"
+  year: 2023
+  authors: Seonghoon Yu, Paul Hongsuck Seo, Jeany Son
+  venue: CVPR 2023
+  link: https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Zero-Shot_Referring_Image_Segmentation_With_Global-Local_Context_Features_CVPR_2023_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
 
+- title: "Learning Audio-Video Modalities from Image Captions"
+  year: 2022
+  authors: Arsha Nagrani, Paul Hongsuck Seo, Bryan Seybold, Anja Hauth, Santiago Manen, Chen Sun, Cordelia Schmid
+  venue: ECCV 2022
+  link: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740396.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "AVATAR: Unconstrained Audiovisual Speech Recognition"
+  year: 2022
+  authors: \*Valentin Gabeur, \*Paul Hongsuck Seo, *Arsha Nagrani, Chen Sun, Karteek Alahari, Cordelia Schmid (\* equal contribution)
+  venue: Interspeech 2022
+  link: https://www.isca-speech.org/archive/pdfs/interspeech_2022/gabeur22_interspeech.pdf
+  oral: 1
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "End-to-end Generative Pretraining for Multimodal Video Captioning"
+  year: 2022
+  authors: Paul Hongsuck Seo, Arsha Nagrani, Anurag Arnab, Cordelia Schmid
+  venue: CVPR 2022
+  link: https://openaccess.thecvf.com/content/CVPR2022/papers/Seo_End-to-End_Generative_Pretraining_for_Multimodal_Video_Captioning_CVPR_2022_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Look Before you Speak: Visually Contextualized Utterances"
+  year: 2021
+  authors: Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
+  venue: CVPR 2021
+  link: https://openaccess.thecvf.com/content/CVPR2021/papers/Seo_Look_Before_You_Speak_Visually_Contextualized_Utterances_CVPR_2021_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Reinforcing an Image Caption Generator by Off-line Human Feedback"
+  year: 2020
+  authors: Paul Hongsuck Seo, Piyush Sharma, Tomer Levinboim, Bohyung Han, Radu Soricut
+  venue: AAAI 2020
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/5655
+  oral: 1
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Combinatorial Inference against Label Noise"
+  year: 2019
+  authors: Paul Hongsuck Seo, Geeho Kim, Bohyung Han
+  venue: NeurIPS 2019
+  link: https://papers.nips.cc/paper_files/paper/2019/hash/0cb929eae7a499e50248a3a78f7acfc7-Abstract.html
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Regularizing Neural Networks via Stochastic Branch Layers"
+  year: 2019
+  authors: \*Wonpyo Park, \*Paul Hongsuck Seo, Bohyung Han, Minsu Cho (\* equal contribution)
+  venue: ACML 2019
+  link: https://openaccess.thecvf.com/content_CVPR_2019/papers/Seo_Learning_for_Single-Shot_Confidence_Calibration_in_Deep_Neural_Networks_Through_CVPR_2019_paper.pdf
+  oral: 1
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Learning for Single-Shot Confidence Calibration in Deep Neural Networks through Stochastic Inferences"
+  year: 2019
+  authors: \*Seonguk Seo, \*Paul Hongsuck Seo, Bohyung Han (\* equal contribution)
+  venue: CVPR 2019
+  link: https://openaccess.thecvf.com/content_CVPR_2019/papers/Seo_Learning_for_Single-Shot_Confidence_Calibration_in_Deep_Neural_Networks_Through_CVPR_2019_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps"
+  year: 2018
+  authors: Paul Hongsuck Seo, Tobias Weyand, Jack Sim, Bohyung Han
+  venue: ECCV 2018
+  link: https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Paul_Hongsuck_Seo_Enhancing_Image_Geolocalization_ECCV_2018_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Attentive Semantic Alignment with Offset-Aware Correlation Kernels"
+  year: 2018
+  authors: Paul Hongsuck Seo, Jongmin Lee, Deunsol Jung, Bohyung Han, Minsu Cho
+  venue: ECCV 2018
+  link: https://openaccess.thecvf.com/content_ECCV_2018/papers/Paul_Hongsuck_Seo_Attentive_Semantic_Alignment_ECCV_2018_paper.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Progressive Attention Networks for Visual Attribute Prediction"
+  year: 2018
+  authors: Paul Hongsuck Seo, Zhe Lin, Scott Cohen, Xiaohui Shen, Bohyung Han
+  venue: BMVC 2018
+  link: http://bmvc2018.org/contents/papers/0402.pdf
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
+
+- title: "Visual Reference Resolution using Attention Memory for Visual Dialog"
+  year: 2017
+  authors: Paul Hongsuck Seo, Andreas Lehrmann, Bohyung Han, Leonid Sigal
+  venue: NIPS 2017
+  link: https://papers.nips.cc/paper_files/paper/2017/hash/654ad60ebd1ae29cedc37da04b6b0672-Abstract.html
+  oral: 
+  spotlight: 
+  highlight1: 
+  highlight2: 
+  highlight3: 
 
 - title: "MarioQA: Answering Questions by Watching Gameplay Videos"
   year: 2017
