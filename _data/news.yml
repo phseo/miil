@@ -1,16 +1,16 @@
 
-- img: amp.png
+- img: cvpr2023.png
   year: 2023
-  month: May
+  month: Feb
   category: Publication
-  description: "Two"
-  long_description: "new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
+  description: "4 papers accepted to CVPR 2023."
+  long_description: 
 
-- img: amp.png
+- img: neurips.svg
   year: 2023
-  month: June
-  category: Publication
-  description: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740)."
+  month: Mar
+  category: Professional Service
+  description: "Paul will serve as an Area Chair for NeurIPS 2023."
 
 - img: amp.png
   year: 2022
