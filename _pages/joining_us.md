@@ -11,7 +11,25 @@ permalink: /joining_us
 We are looking for new group members with passion, talent, and grit!
 
 #### Expected Qualities
-- <strong style="color: #730f27;">Intellectual Curiosity & Problem-solving Ability.</strong> The applicants should have a genuine passion for learning and exploring new ideas. They are expected to ask critical questions, evaluate information critically, identify logical gaps and seek solutions to complex problems.
+- <strong style="color: #730f27;">Intellectual Curiosity and Problem-Solving Ability.</strong> The students should have a genuine passion for learning and exploring new ideas. They are expected to ask critical questions, evaluate information critically, identify logical gaps and seek solutions to complex problems.
+- <strong style="color: #730f27;">Self-Motivation, Adaptability and Resilience.</strong> The students shall set their own goals, manage their time effectively and work diligently towards achieving the goals with autonomy. Graduate research can be challenging and unpredictable and thus they need to adapt to different research methodologies, handle setbacks, and maintain perseverance in the face of obstacles. They are expected to go beyond the minimum requirements by seeking out opportunities for research, networking, or professional development.
+- <strong style="color: #730f27;">Collaboration and Teamwork.</strong> Many research projects involve collaboration with peers, advisors, or interdisciplinary teams. Being able to work effectively in a team and respect diverse perspectives is essential. Strong communication skills, both written and verbal, are crucial. The graduate students should be able to articulate their ideas clearly to fellow researchers and in academic publications.
+- <strong style="color: #730f27;">Open and Respectful Mindset.</strong> An open and respectful mindset is essential as it enables to embrace new ideas, collaborate effectively, accept feedback gracefully, and navigate diverse perspectives with respect. It fosters positive relationships, aids in conflict resolution, and contributes to a diverse and inclusive academic community. We believe that such a mindset promotes intellectual growth, professional development, and a positive academic environment.
+- <strong style="color: #730f27;">Math and Programming Skills.</strong> The students will need to understand existing methods available in a research paper or in an open-sourced project. These skills play a critical role in comprehending algorithms and analyzing models.
+- <strong style="color: #730f27;">English Proficiency.</strong> Proficiency in English enhances academic success, research impact, and collaboration with peers. It is particularly critical given that English serves as the primary means of communication within the global academic community, encompassing research publications, conference presentations, networking, and accessing international career prospects.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
