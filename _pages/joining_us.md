@@ -7,7 +7,7 @@ permalink: /joining_us
 ---
 
 ### Joining Us
-We are looking for new group members with passion, talent, and grit! To graduate program applicants, it is strongly encouraged to do an internship first
+We are looking for new group members with passion, talent, and grit! For prospective graduate program applicants, it is strongly recommended to to undertake an internship beforehand. During the internship, you will be treated as equal to our graduate students and expected to conduct independent research aiming to publish a research paper in a top conference.
 
 #### Research Topics
 
