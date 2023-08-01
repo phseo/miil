@@ -25,7 +25,7 @@ We are looking for new group members with passion, talent, and grit! To graduate
 
 
 #### How to Apply
-If you are interested in the application, please contact Paul by email.
+If you are interested in the application, please contact <a href="{{ site.url }}{{ site.baseurl }}/members">Paul</a> by email.
 
 
 
