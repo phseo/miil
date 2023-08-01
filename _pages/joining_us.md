@@ -7,8 +7,11 @@ permalink: /joining_us
 ---
 
 ### Joining Us
+We are looking for new group members with passion, talent, and grit! To graduate program applicants, it is strongly encouraged to do an internship first
 
-We are looking for new group members with passion, talent, and grit!
+
+#### Research Topics
+
 
 #### Expected Qualities
 - <strong style="color: #730f27;">Intellectual Curiosity and Problem-Solving Acumen.</strong> Prospective students should demonstrate a genuine passion for learning and exploring new ideas. They should possess the ability to ask thought-provoking questions, critically evaluate information, identify logical gaps, and effectively address complex problems.
@@ -18,7 +21,11 @@ We are looking for new group members with passion, talent, and grit!
 - <strong style="color: #730f27;">Math and Programming Skills.</strong> Prospective students should possess a solid understanding of mathematical concepts and programming skills. These abilities are vital for comprehending algorithms, analyzing models, and effectively utilizing existing research methods and open-sourced projects.
 - <strong style="color: #730f27;">English Proficiency.</strong> Proficiency in English is essential for academic success, impactful research, and seamless collaboration with peers. English serves as the primary language of communication within the global academic community, encompassing research publications, conference presentations, networking, and accessing international career opportunities.
 
+#### What to Expect in your Program
 
+
+#### How to Apply
+If you are interested in the application, please contact Paul by email.
 
 
 
