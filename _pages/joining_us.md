@@ -24,8 +24,10 @@ We are striving to create an agent equipped with multimodal interactive intellig
 - <strong style="color: #730f27;">Math and Programming Skills.</strong> Prospective students should possess a solid understanding of mathematical concepts and programming skills. These abilities are vital for comprehending algorithms, analyzing models, and effectively utilizing existing research methods and open-sourced projects.
 - <strong style="color: #730f27;">English Proficiency.</strong> Proficiency in English is essential for academic success, impactful research, and seamless collaboration with peers. English serves as the primary language of communication within the global academic community, encompassing research publications, conference presentations, networking, and accessing international career opportunities.
 
-#### What to Expect in your Program
-
+#### What Awaits you in our Lab
+- <strong style="color: #730f27;">Advancing as an exceptional researcher.</strong> Our lab sets high expectations for students to consistently publish their work in top-tier conferences. We actively support students in honing their research skills, achieving strong publication records, and refining presentation abilities to rival those of graduates from world-renowned groups.
+- <strong style="color: #730f27;">Cultivating a robust network in the academic community.</strong> We place great emphasis on fostering connections and collaborations within the research community. Students are encouraged to pursue internships at top-class research institutes and companies, participate in conferences, and engage in international collaborations to expand their network and exposure.
+- <strong style="color: #730f27;">Fostering Independence as a Researcher.</strong> Within our laboratory, all individuals, including interns, are regarded as junior researchers, fostering a culture of egalitarian relationships. We offer abundant opportunities for personal and professional development. You will have regular 1:1 meetings with your advisor, as well as participate in lab meetings and group studies that encourage collaboration and idea-sharing among the members. 
 
 #### How to Apply
 If you wish to become a part of our lab, please send an email to [Paul]({{ site.url }}{{ site.baseurl }}/members) along with your CV, transcripts, and preferably evidence of your English proficiency. We aim to respond within a week, but if you don't receive a reply, feel free to send a friendly reminder. 
