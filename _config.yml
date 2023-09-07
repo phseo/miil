@@ -10,8 +10,10 @@ title: Multimodal Interactive Intelligence Laboratory
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of MIIL.
-baseurl: "miil"
-url: "https://phseo.github.io/"
+# baseurl: "miil"
+# url: "https://phseo.github.io/"
+baseurl: ""
+url: "https://miil.korea.ac.kr/"
 
 include:
   - .htaccess
