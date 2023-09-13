@@ -6,11 +6,10 @@
 
 # Make sure photo images are squre.
 
-# - name: Intern Seo
-#   photo: phseo.jpg
-#   email: roy.seo
-#   homepage: https://phseo.github.io/
-#   interests: a learning
+- name: Seokmin Kim
+  photo: winter02.jpg
+  email: winter02
+  interests: Natural Language Processing, Cognitive Computing
 
 # - name: One Intern
 #   photo: phseo.jpg
