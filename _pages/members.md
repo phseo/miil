@@ -102,7 +102,7 @@ permalink: /members/
   {% endif %}
 {% if member.email != null %}
 <span class="email" style="color: #888;">{{ member.email }}</span> <br/>
-{% elif member.external_email != null %}
+{% elsif member.external_email != null %}
 <span class="external_email" style="color: #888;">{{ member.external_email }}</span> <br/>
 {% endif %}
 <span class="interests" style="font-style: italic;">{{ member.interests }}</span>
