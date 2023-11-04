@@ -106,6 +106,8 @@ permalink: /members/
   {% elsif member.external_email != null %}
   <span class="external_email" style="color: #888;">{{ member.external_email }}</span> <br/>
   <span class="interests" style="font-style: italic;">{{ member.interests }}</span>
+  {% else %}
+  <span class="interests" style="font-style: italic;">{{ member.interests }}</span>
   {% endif %}
 </div>
 
