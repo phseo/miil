@@ -100,12 +100,12 @@ permalink: /members/
   {% else %}
   <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
   {% endif %}
-  {% if member.email != null %}
-  <span class="email" style="color: #888;">{{ member.email }}</span> <br/>
-  {% else %}
-  <span class="external_email" style="color: #888;">{{ member.external_email }}</span> <br/>
-  {% endif %}
-  <span class="interests" style="font-style: italic;">{{ member.interests }}</span>
+{% if member.email != null %}
+<span class="email" style="color: #888;">{{ member.email }}</span> <br/>
+{% elif member.external_email != null %}
+<span class="external_email" style="color: #888;">{{ member.external_email }}</span> <br/>
+{% endif %}
+<span class="interests" style="font-style: italic;">{{ member.interests }}</span>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
