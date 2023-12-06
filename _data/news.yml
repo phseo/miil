@@ -16,7 +16,13 @@
   month: September
   category: Professional Service
   description: "Paul will serve as an Area Chair for ICLR 2024."
-  long_description: 
+  long_description:
+
+- img: neurips.svg
+  year: 2023
+  month: March
+  category: Professional Service
+  description: "Paul will serve as an Area Chair for NeurIPS 2023." 
   
 - img: cvpr2023.png
   year: 2023
@@ -24,12 +30,6 @@
   category: Publication
   description: "4 papers accepted to CVPR 2023."
   long_description: 
-
-- img: neurips.svg
-  year: 2023
-  month: March
-  category: Professional Service
-  description: "Paul will serve as an Area Chair for NeurIPS 2023."
 
 - img: icml2023.png
   year: 2022
