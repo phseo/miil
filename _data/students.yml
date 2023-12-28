@@ -6,11 +6,20 @@
 
 # Make sure photo images are squre.
 
-# - name: Roy Seo
-#   photo: phseo.jpg
-#   email: roy.seo
-#   homepage: https://phseo.github.io/
-#   interests: Deep learning
+- name: Leekyeung Han
+  photo: happilee12.png
+  email: happilee12
+  interests: Multimodal Learning
+
+- name: Sumin An
+  photo: wsdvbnm13.jpg
+  external_email: wsdvbnm13@gmail.com
+  interests: Multimodal Learning, Natural Language Processing
+
+- name: Seung-jae Lee
+  photo: cid2r.jpg
+  external_email: cid2r@live.com
+  interests: Multiple Sound Sources Localization, HRI
 
 # - name: One Seo
 #   photo: phseo.jpg
