@@ -6,11 +6,6 @@
 
 # Make sure photo images are squre.
 
-- name: Seokmin Kim
-  photo: winter02.jpg
-  email: winter02
-  interests: Natural Language Processing, Cognitive Computing
-
 - name: Hyunji Min
   photo: daream2.png
   email: daream2
