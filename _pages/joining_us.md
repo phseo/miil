@@ -7,7 +7,7 @@ permalink: /joining_us
 ---
 
 ### Joining Us
-We are looking for new group members with passion, talent, and grit! For prospective graduate program applicants, it is strongly recommended to undertake an internship beforehand. During the internship, you will be treated as equal to our graduate students and expected to conduct independent research aiming to publish a research paper in a top conference.
+We are looking for new group members with passion, talent, and grit! For prospective graduate program applicants, it is strongly recommended to undertake an internship beforehand. (For the moment, almost all open positions for the next semester are reserved for the current interns.) During the internship, you will be treated as equal to our graduate students and expected to conduct independent research aiming to publish a research paper in a top conference.
 
 #### Research Topics
 We are striving to create an agent equipped with multimodal interactive intelligence, which represents a significant milestone on the path to achieving Artificial General Intelligence. Our research focuses on multimodal perception, conversational/embodied AI, and their intersection. To achieve this goal, we also delve into exploring various preliminary topics involving different modalities such as vision, audition, and language. Our aspiration is to publish high-quality research papers at top AI conferences, aiming to disseminate our findings and contribute to the cutting-edge advancements in the field. The esteemed AI venues we are targeting for publication include (but are not limited to) the following:
@@ -30,4 +30,4 @@ We are striving to create an agent equipped with multimodal interactive intellig
 - <strong style="color: #730f27;">Fostering Independence as a Researcher.</strong> Within our laboratory, all individuals, including interns, are regarded as junior researchers, fostering a culture of egalitarian relationships. We offer abundant opportunities for personal and professional development. You will have regular 1:1 meetings with your advisor, as well as participate in lab meetings and group studies that encourage collaboration and idea-sharing among the members. 
 
 #### How to Apply
-If you wish to become a part of our lab, please send an email to [Paul]({{ site.url }}{{ site.baseurl }}/members) along with your CV, transcripts, and preferably evidence of your English proficiency. We aim to respond within a week, but if you don't receive a reply, feel free to send a friendly reminder. 
+If you wish to become a part of our lab, please send an email to [Paul]({{ site.url }}{{ site.baseurl }}/members) along with your CV, transcripts, and preferably evidence of your English proficiency. We aim to respond within a week, but if you don't receive a reply, feel free to send a friendly reminder.
