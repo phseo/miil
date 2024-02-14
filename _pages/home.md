@@ -1,7 +1,6 @@
 ---
 title: "MIIL - Home"
 layout: homelay
-excerpt: "Multimodal Interactive Intelligence Laboratory"
 sitemap: false
 permalink: /
 ---

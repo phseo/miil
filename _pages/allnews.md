@@ -1,7 +1,6 @@
 ---
 title: "MIIL - News"
 layout: textlay
-excerpt: "MIIL - News"
 sitemap: false
 permalink: /allnews.html
 ---

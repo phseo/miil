@@ -1,7 +1,6 @@
 ---
 title: "MIIL - Joining Us"
 layout: textlay
-excerpt: "MIIL - Joining Us"
 sitemap: false
 permalink: /joining_us
 ---
