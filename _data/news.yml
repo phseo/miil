@@ -1,3 +1,10 @@
+- img: cvpr2024.svg
+  year: 2024
+  month: February
+  category: Publication
+  description: "Two papers accepted to CVPR 2024."
+  long_description: 
+  
 - img: icml2023.png
   year: 2023
   month: December
