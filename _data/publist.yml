@@ -1,6 +1,6 @@
 - title: "CAT-Seg: Cost Aggregation for Open-vocabulary Semantic Segmentation"
   year: 2024
-  authors: *Seokju Cho, *Heeseong Shin, Sunghwan Hong, Anurag Arnab, +Paul Hongsuck Seo, +Seungryong Kim
+  authors: \*Seokju Cho, \*Heeseong Shin, Sunghwan Hong, Anurag Arnab, +Paul Hongsuck Seo, +Seungryong Kim (+corresponding authors)
   venue: CVPR 2024
   link: https://arxiv.org/abs/2303.11797
   oral: 
@@ -11,7 +11,7 @@
 
 - title: "Learning Correlation Structures for Vision Transformers"
   year: 2024
-  authors: Manjin Kim, +Paul Hongsuck Seo, Cordelia Schmid, +Minsu Cho
+  authors: Manjin Kim, +Paul Hongsuck Seo, Cordelia Schmid, +Minsu Cho (+corresponding authors)
   venue: CVPR 2024
   link: 
   oral: 
