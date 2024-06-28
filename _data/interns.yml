@@ -6,31 +6,11 @@
 
 # Make sure photo images are squre.
 
-- name: Hyunji Min
-  photo: daream2.png
-  email: daream2
-  interests: Multimodal Learning
-
 - name: Gyeom Hwangbo
   photo: johnhwangbo17.jpg
   external_email: johnhwangbo17@gmail.com
   interests: Computer Vision, Multimodal Learning
   homepage: https://gyeomh.notion.site/Gyeom-Hwangbo-7781a3604fc24995b0914863babc7a6c?pvs=4
-
-- name: Euna Goo
-  photo: eunai9.png
-  email: eunai9
-  interests: Multimodal Learning, Few-shot Learning
-
-- name: Dosung Lee
-  photo: dslee1219.png
-  email: dslee1219
-  interests: Multimodal Learning, Generative AI
-
-- name: Dohyun Kim
-  photo: a12s12.jpg
-  email: a12s12
-  interests: Multimodal Learning
 
 - name: Jonghoon Lee
   photo: alphabet1.png
@@ -61,4 +41,19 @@
   photo: owj0421.png
   email: owj0421
   interests: Multimodal Learning, Natural Language Processing, Information Retrieval, Recommender System
+
+- name: Geonhee Han
+  photo: rtrt505.jpg
+  email: rtrt505
+  interests: Multimodal Learning, Generative AI
+
+- name: Geonyoung Lee
+  photo: gun0lee.jpg
+  email: gun0lee
+  interests: Multimodal Learning
+
+- name: Minyoung Kim
+  photo: omniverse186.png
+  email: omniverse186
+  interests: Multimodal Learning, RAG, LLM
 
