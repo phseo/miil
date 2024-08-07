@@ -1,11 +1,18 @@
+- img: iclr.svg
+  year: 2024
+  month: September
+  category: Professional Service
+  description: "Paul will serve as an Area Chair for ICLR 2025."
+  long_description:
+
 - img: aaai.png
-  year: 2025
+  year: 2024
   month: August
   category: Professional Service
   description: "Paul will serve as a Senior Program Committee for AAAI 2025." 
   
 - img: eccv2024.svg
-  year: 2022
+  year: 2024
   month: July
   category: Publication
   description: "A paper accepted to ECCV 2024."
