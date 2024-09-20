@@ -6,12 +6,6 @@
 
 # Make sure photo images are squre.
 
-- name: Gyeom Hwangbo
-  photo: johnhwangbo17.jpg
-  external_email: johnhwangbo17@gmail.com
-  interests: Computer Vision, Multimodal Learning
-  homepage: https://gyeomh.notion.site/Gyeom-Hwangbo-7781a3604fc24995b0914863babc7a6c?pvs=4
-
 - name: Jonghoon Lee
   photo: alphabet1.png
   email: alphabet1
@@ -71,5 +65,10 @@
 - name: Minjun Kim
   photo: ddomjun.jpg
   email: ddomjun
+  interests: Multimodal Learning, Computer Vision
+
+- name: Jinseong Jeong
+  photo: dw9030.jpg
+  email: dw9030
   interests: Multimodal Learning, Computer Vision
 
