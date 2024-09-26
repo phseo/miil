@@ -1,3 +1,25 @@
+- title: "TrackIME: Enhanced Video Point Tracking via Instance Motion Estimation, has been accepted at NeurIPS 2024"
+  year: 2024
+  authors: Seong Hyeon Park, Huiwon Jang, Byungwoo Jeon, Sukmin Yun, Paul Hongsuck Seo, Jinwoo Shin
+  venue: NeurIPS 2024
+  link: 
+  oral: 
+  spotlight: 1
+  highlight: 
+  highlight2: 
+  highlight3: 
+  
+- title: "Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels"
+  year: 2024
+  authors: Heeseong Shin, Chaehyun Kim, Sunghwan Hong, Seokju Cho, Anurag Arnab, +Paul Hongsuck Seo, +Seungryong Kim (+ corresponding authors)
+  venue: NeurIPS 2024
+  link: 
+  oral: 
+  spotlight: 
+  highlight: 
+  highlight2: 
+  highlight3: 
+
 - title: "Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation"
   year: 2024
   authors: Seonghoon Yu, +Paul Hongsuck Seo, +Jeany Son (+ corresponding authors)
