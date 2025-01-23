@@ -1,6 +1,17 @@
+- title: "LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs"
+  year: 2025
+  authors: Sumin An, Junyoung Sung, Wonpyo Park, +Chanjun Park, +Paul Hongsuck Seo  (+ corresponding authors)
+  venue: NAACL 2025
+  link: 
+  oral: 
+  spotlight: 
+  highlight: 
+  highlight2: 
+  highlight3: 
+  
 - title: "Multi-Granularity Video Object Segmentation"
   year: 2025
-  authors: \*Sangbeom Lim, \*Seongchan Kim, \*Seungjun An,  Seokju Cho, +Paul Hongsuck Seo, +Seungryong Kim
+  authors: \*Sangbeom Lim, \*Seongchan Kim, \*Seungjun An,  Seokju Cho, +Paul Hongsuck Seo, +Seungryong Kim  (+ corresponding authors)
   venue: AAAI 2025
   link: https://arxiv.org/html/2412.01471v2
   oral: 

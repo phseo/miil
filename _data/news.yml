@@ -1,9 +1,21 @@
+- img: naacl2025.svg
+  year: 2025
+  month: January
+  category: Publication
+  description: "A paper accepted to NAACL 2025."
+
 - img: iccv2025.svg
   year: 2024
   month: December
   category: Professional Service
   description: "Paul will serve as an Area Chair for ICCV 2025."
-  
+
+- img: aaai.png
+  year: 2024
+  month: December
+  category: Publication
+  description: "A paper accepted to AAAI 2025."
+
 - img: kccv2025.png
   year: 2024
   month: November
