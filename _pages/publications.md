@@ -27,7 +27,11 @@ permalink: /publications/
 
 <div class="well" style="padding-top: 5px; padding-bottom: 5px; padding-right: 10px; padding-left: 10px; margin-bottom: 3px; box-shadow: none;">
 <p style="margin-bottom: 0px;">
+{% if publi.link != null %}
 <a href="{{ publi.link }}" target="_blank">**{{ publi.title }}**</a> 
+{% else %}
+<a href="#">**{{ publi.title }}**</a> 
+{% endif %}
 {% if publi.oral == 1 %}
 <span style="line-height: 1; font-size: 12px; color: #FFFFFF; background-color: #730f27; text-align: center; display: inline-block; border-radius: 5px 5px 5px 5px; padding: 3px 6px 3px 6px; font-weight: bold; margin-left: 5px;">oral</span>
 {% endif %}
