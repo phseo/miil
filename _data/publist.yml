@@ -1,3 +1,8 @@
+- title: "ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision"
+  year: 2025
+  authors: Dosung Lee, Wonjun Oh, Boyoung Kim, Minyoung Kim, +Joonsuk Park, +Paul Hongsuck Seo (+ corresponding authors)
+  venue: ACL 2025
+
 - title: "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
   year: 2025
   authors: \*Dohyun Kim, \*Sehwan Park, Geonhee Han, Seung Wook Kim, Paul Hongsuck Seo (* equal contribution)
@@ -11,7 +16,7 @@
   
 - title: "LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs"
   year: 2025
-  authors: Sumin An, Junyoung Sung, Wonpyo Park, +Chanjun Park, +Paul Hongsuck Seo  (+ corresponding authors)
+  authors: Sumin An, Junyoung Sung, Wonpyo Park, +Chanjun Park, +Paul Hongsuck Seo (+ corresponding authors)
   venue: NAACL 2025
   link: https://ssuminan.github.io/LCIRC/
   oral: 1
