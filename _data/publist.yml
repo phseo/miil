@@ -5,7 +5,7 @@
 
 - title: "DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization"
   year: 2025
-  authors: Geonyoung Lee, Geonhee Han, Paul Hongsuck Seo
+  authors: \*Geonyoung Lee, \*Geonhee Han, Paul Hongsuck Seo (\* equal contribution)
   venue: Interspeech 2025
 
 - title: "Bridging Audio and Vision: Zero-Shot Audiovisual Segmentation by Connecting Pretrained Models"
