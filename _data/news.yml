@@ -1,7 +1,19 @@
+- img: interspeech2025.jpg
+  year: 2025
+  month: May
+  category: Publication
+  description: "Three papers accepted to Interspeech 2025."
+
+- img: acl25-logo.png
+  year: 2025
+  month: May
+  category: Publication
+  description: "A paper accepted to ACL 2025."
+
 - img: neurips.svg
   year: 2025
   month: March
-  category: Publication
+  category: Professional Service
   description: "Paul will serve as an Area Chair for NeurIPS 2025."
   
 - img: cvpr2025.svg
