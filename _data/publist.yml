@@ -15,7 +15,7 @@
 
 - title: "ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision"
   year: 2025
-  authors: Dosung Lee, Wonjun Oh, Boyoung Kim, Minyoung Kim, +Joonsuk Park, +Paul Hongsuck Seo (+ corresponding authors)
+  authors: \*Dosung Lee, \*Wonjun Oh, Boyoung Kim, Minyoung Kim, +Joonsuk Park, +Paul Hongsuck Seo (\* equal contribution, + corresponding authors)
   venue: ACL 2025
 
 - title: "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
