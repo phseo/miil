@@ -7,16 +7,19 @@
   year: 2025
   authors: \*Geonyoung Lee, \*Geonhee Han, Paul Hongsuck Seo (\* equal contribution)
   venue: Interspeech 2025
+  link: https://wltschmrz.github.io/DGMO/
 
 - title: "Bridging Audio and Vision: Zero-Shot Audiovisual Segmentation by Connecting Pretrained Models"
   year: 2025
   authors: Seung-jae Lee, Paul Hongsuck Seo
   venue: Interspeech 2025
+  link: https://cid2rrrr.github.io/BAaV/
 
 - title: "ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision"
   year: 2025
   authors: \*Dosung Lee, \*Wonjun Oh, Boyoung Kim, Minyoung Kim, +Joonsuk Park, +Paul Hongsuck Seo (\* equal contribution, + corresponding authors)
   venue: ACL 2025
+  link: https://leeds1219.github.io/ReSCORE/
 
 - title: "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
   year: 2025
