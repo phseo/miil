@@ -1,3 +1,9 @@
+- img: iccv2025.svg
+  year: 2025
+  month: June
+  category: Publication
+  description: "A paper accepted to ICCV 2025."
+
 - img: interspeech2025.jpg
   year: 2025
   month: May
