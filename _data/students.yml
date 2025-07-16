@@ -54,8 +54,13 @@
   email: rtrt505
   interests: Multimodal Learning, Generative AI
   homepage: https://chaksseu.github.io/
-  
-# - name: One Seo
-#   photo: phseo.jpg
-#   email: one.seo
-#   interests: multimodal learning
+
+- name: Jinseong Jeong
+  photo: dw9030.jpg
+  email: dw9030
+  interests: Multimodal Learning, Computer Vision
+
+- name: Youngseo Kim
+  photo: xwsa568.jpg
+  email: xwsa568
+  interests: Video Understanding, Computer Vision
