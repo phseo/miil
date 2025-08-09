@@ -42,6 +42,51 @@ permalink: /members/
 
 
 {% assign number_printed = 0 %}
+{% for member in site.data.postdoc %}
+
+{% if number_printed == 0 %}
+### Postdoctoral Fellows
+{% endif %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left; margin-top: 10px; " />
+  {% if member.homepage != null %}
+  <span class="member_name"><a href="{{ member.homepage }}" target="_blank">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
+  {% else %}
+  <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
+  {% endif %}
+  {% if member.email != null %}
+  <span class="email" style="color: #888;">{{ member.email }}</span> <br/>
+  <span class="interests" style="font-style: italic;">{{ member.interests }}</span>
+  {% elsif member.external_email != null %}
+  <span class="external_email" style="color: #888;">{{ member.external_email }}</span> <br/>
+  <span class="interests" style="font-style: italic;">{{ member.interests }}</span>
+  {% else %}
+  <span class="interests" style="font-style: italic;">{{ member.interests }}</span>
+  {% endif %}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+{% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
 {% if number_printed == 0 %}
