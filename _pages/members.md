@@ -45,7 +45,7 @@ permalink: /members/
 {% for member in site.data.postdoc %}
 
 {% if number_printed == 0 %}
-### Postdoctoral Fellows
+### Postdoc. Fellows
 {% endif %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
