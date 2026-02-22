@@ -6,11 +6,6 @@
 
 # Make sure photo images are squre.
 
-- name: Junyoung Sung
-  photo: jys7451.jpg
-  email: jys7451
-  interests: Reinforcement Learning, AI Agents, Large Language Models, AI Alignment
-
 - name: Minyoung Kim
   photo: omniverse186.png
   email: omniverse186
@@ -36,5 +31,10 @@
   photo: yemoyemo010831.jpg
   external_email: yemoyemo010831@gmail.com
   interests: AI Agent, Reinforcement Learning
+
+- name: Yoonsoo Choi
+  photo: yschoi00.png
+  email: yschoi00
+  interests: Multimodal AI, AI Agent
 
 
