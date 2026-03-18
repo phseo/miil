@@ -1,3 +1,14 @@
+
+- title: "CRIT: Graph-Based Automatic Data Synthesis to Enhance Cross-Modal Multi-Hop Reasoning"
+  year: 2026
+  authors: Junyoung Sung, Seungwoo Lyu, Minjun Kim, Sumin An, Arsha Nagrani, Paul Hongsuck Seo
+  venue: CVPR 2026
+
+- title: "Robust Image Self-Recovery against Tampering using Watermark Generation with Pixel Shuffling"
+  year: 2026
+  authors: Minyoung Kim, Paul Hongsuck Seo
+  venue: CVPR 2026 (Findings)
+
 - title: "Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers"
   year: 2025
   authors: Chaehyun Kim, Heeseong Shin, Heeji Yoon, Eunbeen Hong, Anurag Arnab, Paul Hongsuck Seo, +Sunghwan Hong, +Seungryong Kim (+ corresponding authors)
