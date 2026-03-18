@@ -6,12 +6,6 @@
 
 # Make sure photo images are squre.
 
-- name: Minyoung Kim
-  photo: omniverse186.png
-  email: omniverse186
-  interests: Multimodal Learning, RAG, LLM
-  homepage: https://eurominyoung186.github.io/
-
 - name: Seungwoo Lyu
   photo: dbtmddn41.jpg
   email: dbtmddn41
@@ -22,11 +16,6 @@
   email: hscient
   interests: Multimodal AI, AI Agent
 
-- name: Seonghyeon Noh
-  photo: songhyeonnoh5566.jpg
-  external_email: songhyeonnoh5566@gmail.com
-  interests: Multimodal AI, Generative AI, Bias Mitigation
-
 - name: Yemo Koo
   photo: yemoyemo010831.jpg
   external_email: yemoyemo010831@gmail.com
@@ -36,5 +25,10 @@
   photo: yschoi00.png
   email: yschoi00
   interests: Multimodal AI, AI Agent
+
+- name: Seungjoo Han
+  photo: andy030407.jpg
+  email: andy030407
+  interests: AI for Finance, Computer Vision
 
 
